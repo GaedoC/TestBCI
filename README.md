@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Título de mi página web</title>
    </head>
    <body>
       <header>
