@@ -14,6 +14,7 @@
         <h2>Arquitectura Microservicios</h2>
         <p><img>https://github.com/GaedoC/TestBCI/assets/17816969/a13e75ca-86b2-4f41-a1db-d9933933e955</img></p>
         <h2>Modelo de datos</h2>
+        <p>Base de datos: db_spring_backend</p>
         <p><img>https://github.com/GaedoC/TestBCI/assets/17816969/feba0f24-c400-49ef-a697-fc482143b670</img></p>
         <h2>Tecnología a utilizar</h2>
          <p><img></img></p>
